@@ -15,8 +15,9 @@
 1.2. [自動運転トラクター](https://drive.google.com/file/d/1ZrmZ8kOACi6lOEawJNVvAmmid0gdRKga/view?usp=sharing).  
 1.3. [自動栽培装置](https://drive.google.com/file/d/1N9zkdta4HKdE265Wfu7c_vI2tnhiSIdN/view?usp=sharing)
 
-2. [The Future of Farming](https://youtu.be/Qmla9NLFBvU)  
-3. [農水スマート農業](https://youtu.be/rZmIml-SFlA)
+2. [Youtube：The Future of Farming](https://youtu.be/Qmla9NLFBvU)  
+3. [農林水産省：スマート農業](https://www.maff.go.jp/j/kanbo/smart/)
+4. [農林水産省：農業DX構想](https://www.maff.go.jp/j/press/kanbo/joho/210325.html)
 
 ## レポート関係
 1. [Google Teachable MachineでAIを体験してみよう](https://teachablemachine.withgoogle.com/) 
