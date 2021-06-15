@@ -12,8 +12,8 @@
 
 1. 農場ICT実習(閲覧には東大のg.eccが必要)：  
 1.1. [ドローン操縦](https://drive.google.com/file/d/1Rr_kQlzftkZPBkfwtJG94_XM1U-XR3IN/view?usp=sharing).  
-1.2.  [自動運転トラクター](https://drive.google.com/file/d/1ZrmZ8kOACi6lOEawJNVvAmmid0gdRKga/view?usp=sharing)
-1.3.  [自動栽培装置](https://drive.google.com/file/d/1N9zkdta4HKdE265Wfu7c_vI2tnhiSIdN/view?usp=sharing)
+1.2. [自動運転トラクター](https://drive.google.com/file/d/1ZrmZ8kOACi6lOEawJNVvAmmid0gdRKga/view?usp=sharing).  
+1.3. [自動栽培装置](https://drive.google.com/file/d/1N9zkdta4HKdE265Wfu7c_vI2tnhiSIdN/view?usp=sharing)
 
 2. [The Future of Farming](https://youtu.be/Qmla9NLFBvU)  
 3. [農水スマート農業](https://youtu.be/rZmIml-SFlA)
