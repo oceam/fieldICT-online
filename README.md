@@ -26,9 +26,9 @@
 2.2. [レポートテンプレート](https://drive.google.com/file/d/1I4izPmT5CRkz15JaD62JzBIjX7vSrGDD/view?usp=sharing).  
 2.3. データセット：  
 [Weeds_practice_Dataset](https://drive.google.com/drive/folders/1O5fx-mgyGC_-3Bl2Il0LnT9ouC7OCq0R?usp=sharing) ;  
-[Rice Leaf Diseases Dataset](https://drive.google.com/drive/folders/1fVMMot1PXGeLIvw2OB6thkH3_jX9nSX3?usp=sharing), Downloaded from [here](https://www.kaggle.com/vbookshelf/rice-leaf-diseases) ;  
-[flowers](https://drive.google.com/drive/folders/1oukB6MPBRcEejDhf1qphxcLcP4vcVSux?usp=sharing),Downloaded from [here](https://www.kaggle.com/alxmamaev/flowers-recognition) ;   
-[V2 Plant Seedlings Dataset](https://drive.google.com/drive/folders/1hcN1MAa-KkLZvTUVJX-FhvXPEqRHusnK?usp=sharing),Downloaded from [here](https://www.kaggle.com/vbookshelf/v2-plant-seedlings-dataset) ; 
+[Rice Leaf Diseases Dataset](https://drive.google.com/drive/folders/1fVMMot1PXGeLIvw2OB6thkH3_jX9nSX3?usp=sharing), Resources from [here](https://www.kaggle.com/vbookshelf/rice-leaf-diseases) ;  
+[flowers](https://drive.google.com/drive/folders/1oukB6MPBRcEejDhf1qphxcLcP4vcVSux?usp=sharing),Resources from [here](https://www.kaggle.com/alxmamaev/flowers-recognition) ;   
+[V2 Plant Seedlings Dataset](https://drive.google.com/drive/folders/1hcN1MAa-KkLZvTUVJX-FhvXPEqRHusnK?usp=sharing),Resources from [here](https://www.kaggle.com/vbookshelf/v2-plant-seedlings-dataset) ; 
 
 
 2.2. [レポートテンプレート](https://drive.google.com/file/d/1I4izPmT5CRkz15JaD62JzBIjX7vSrGDD/view?usp=sharing)
