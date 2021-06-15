@@ -19,13 +19,16 @@
 3. [農林水産省：スマート農業](https://www.maff.go.jp/j/kanbo/smart/)
 4. [農林水産省：農業DX構想](https://www.maff.go.jp/j/press/kanbo/joho/210325.html)
 
-## レポート関係
-1. [Google Teachable MachineでAIを体験してみよう](https://teachablemachine.withgoogle.com/) 
-1. Upload先：ZoomCHATより
+## ハンズオンとレポート関係
+1. [Google Teachable MachineでAIを体験してみよう](https://teachablemachine.withgoogle.com/)
+2. レポート:  
+2.1. グールプごと提出  
+2.2. [レポートテンプレート](https://drive.google.com/file/d/1I4izPmT5CRkz15JaD62JzBIjX7vSrGDD/view?usp=sharing)
 
 ## レポート課題を更に理解するため
-1. [おすすめ深層学習入門動画](https://youtu.be/W92VcivhoBs)
-1. [Study_CNN_Explainer](https://utokyo-fieldphenomics-lab.github.io/Study_CNN_Explainer/) (本日の講義用に修正した)  
+1. 2021年 [フィールドインフォマティクス2021講義](https://github.com/oceam/FieldInfomatics-Lecture-2021)
+2. [おすすめ深層学習入門動画](https://youtu.be/W92VcivhoBs)
+3. [Study_CNN_Explainer](https://utokyo-fieldphenomics-lab.github.io/Study_CNN_Explainer/) (本日の講義用に修正した)  
 original version from Here: [Zijie J. Wang et al., 2020](https://github.com/poloclub/cnn-explainer)  
 
 ## Maintainers
