@@ -29,9 +29,7 @@
 [Rice Leaf Diseases Dataset](https://drive.google.com/drive/folders/1fVMMot1PXGeLIvw2OB6thkH3_jX9nSX3?usp=sharing), Resources from [here](https://www.kaggle.com/vbookshelf/rice-leaf-diseases) ;  
 [flowers](https://drive.google.com/drive/folders/1oukB6MPBRcEejDhf1qphxcLcP4vcVSux?usp=sharing),Resources from [here](https://www.kaggle.com/alxmamaev/flowers-recognition) ;   
 [V2 Plant Seedlings Dataset](https://drive.google.com/drive/folders/1hcN1MAa-KkLZvTUVJX-FhvXPEqRHusnK?usp=sharing),Resources from [here](https://www.kaggle.com/vbookshelf/v2-plant-seedlings-dataset) ; 
-
-
-2.2. [レポートテンプレート](https://drive.google.com/file/d/1I4izPmT5CRkz15JaD62JzBIjX7vSrGDD/view?usp=sharing)
+3. [レポート提出先](https://drive.google.com/drive/folders/1eZsw6cfjjdNc517uyIl5B-NI9BN9th2M?usp=sharing)
 ## レポート課題を更に理解するため
 1. 2021年 [フィールドインフォマティクス2021講義](https://github.com/oceam/FieldInfomatics-Lecture-2021)
 2. [おすすめ深層学習入門動画](https://youtu.be/W92VcivhoBs)
