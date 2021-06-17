@@ -1,10 +1,11 @@
 # 作物を知るー植物フェノミクス2021
 
 ## 講義資料
-配布バージョンが[ここから見れる](https://drive.google.com/file/d/1r4DbxCvm9sdswyHiahVCtjSCAJwsaEyt/view?usp=sharing)
+配布バージョンが[ここから見れる](https://drive.google.com/file/d/1r4DbxCvm9sdswyHiahVCtjSCAJwsaEyt/view?usp=sharing)  
 印刷バージョンが[ここからDownLoad](https://drive.google.com/file/d/1y5pJM8iRmaTc6wWIFmo51PMlw2LkBZgB/view?usp=sharing).   
 
-出席はITC-LMSで
+出席はITC-LMSで  
+ontimeパスワードはZoomチャットで入手
 <!--  Zoomのチャット（私宛）で　お名前＋学籍番号 -->
 [](確認する必要がある)
 
