@@ -36,7 +36,9 @@ ontimeパスワードはZoomチャットで入手
 1. 2021年 [フィールドインフォマティクス2021講義](https://github.com/oceam/FieldInfomatics-Lecture-2021)
 2. [おすすめ深層学習入門動画](https://youtu.be/W92VcivhoBs)
 3. [Study_CNN_Explainer](https://utokyo-fieldphenomics-lab.github.io/Study_CNN_Explainer/) (本日の講義用に修正した)  
-original version from Here: [Zijie J. Wang et al., 2020](https://github.com/poloclub/cnn-explainer)  
+original version from Here: [Zijie J. Wang et al., 2020](https://github.com/poloclub/cnn-explainer).  
+4. UAVPP, Breeder-Friendly-Plant-Phenotyping-tools for UAV, [Wiki page](https://github.com/oceam/UAVPP/wiki/)
+
 
 ## Maintainers
 Wei GUO (Oceam), 
