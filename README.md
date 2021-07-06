@@ -12,11 +12,12 @@
 3. [農林水産省：農業DX構想](https://www.maff.go.jp/j/press/kanbo/joho/210325.html)
 
 ## ハンズオンとレポート関係
-1. [Google Teachable MachineでAIを体験してみよう](https://teachablemachine.withgoogle.com/)
-2. レポート:  
-2.1. グールプごと提出  
-2.2. [レポートテンプレート](https://drive.google.com/file/d/1I4izPmT5CRkz15JaD62JzBIjX7vSrGDD/view?usp=sharing).  
-2.3. データセット：  
+1. [Google Teachable MachineでAIを体験してみよう](https://teachablemachine.withgoogle.com/)  
+2. [雑草識別モデル](https://teachablemachine.withgoogle.com/models/1u_hCfzqq/)
+3. レポート:  
+4.1. グールプごと提出  
+5.2. [レポートテンプレート](https://drive.google.com/file/d/1I4izPmT5CRkz15JaD62JzBIjX7vSrGDD/view?usp=sharing).  
+6.3. データセット：  
 [Weeds_practice_Dataset](https://drive.google.com/drive/folders/1O5fx-mgyGC_-3Bl2Il0LnT9ouC7OCq0R?usp=sharing) ;  
 [Rice Leaf Diseases Dataset](https://drive.google.com/drive/folders/1fVMMot1PXGeLIvw2OB6thkH3_jX9nSX3?usp=sharing), Resources from [here](https://www.kaggle.com/vbookshelf/rice-leaf-diseases) ;  
 [flowers](https://drive.google.com/drive/folders/1oukB6MPBRcEejDhf1qphxcLcP4vcVSux?usp=sharing),Resources from [here](https://www.kaggle.com/alxmamaev/flowers-recognition) ;   
