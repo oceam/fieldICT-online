@@ -30,6 +30,7 @@
 original version from Here: [Zijie J. Wang et al., 2020](https://github.com/poloclub/cnn-explainer).  
 3. UAVPP, Breeder-Friendly-Plant-Phenotyping-tools for UAV, [Wiki page](https://github.com/oceam/UAVPP/wiki/).  
 4. [Computer Vision with Deep Learning for Plant Phenotyping in Agriculture: A Survey](https://arxiv.org/pdf/2006.11391.pdf)  
+5. [AIセミナー「深層学習を使ったキュウリ選別機つくってみた](https://youtu.be/3E3jYjZ9h78)
 
 
 
