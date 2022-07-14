@@ -22,7 +22,8 @@
 [Rice Leaf Diseases Dataset](https://drive.google.com/drive/folders/1fVMMot1PXGeLIvw2OB6thkH3_jX9nSX3?usp=sharing), Resources from [here](https://www.kaggle.com/vbookshelf/rice-leaf-diseases) ;  
 [flowers](https://drive.google.com/drive/folders/1oukB6MPBRcEejDhf1qphxcLcP4vcVSux?usp=sharing),Resources from [here](https://www.kaggle.com/alxmamaev/flowers-recognition) ;   
 [V2 Plant Seedlings Dataset](https://drive.google.com/drive/folders/1hcN1MAa-KkLZvTUVJX-FhvXPEqRHusnK?usp=sharing),Resources from [here](https://www.kaggle.com/vbookshelf/v2-plant-seedlings-dataset) ; 
-3. [レポート提出先](maileto: guowei@g.ecc.u-tokyo.ac.jp)
+3. <a href="mailto:guowei@g.ecc.u-tokyo.ac.jp?subject=レポート提出先">レポート提出先</a>
+
 ## レポート課題を更に理解するため
 1. [おすすめ深層学習入門動画](https://youtu.be/W92VcivhoBs)
 2. [Study_CNN_Explainer](https://utokyo-fieldphenomics-lab.github.io/Study_CNN_Explainer/) (本日の講義用に修正した)  
