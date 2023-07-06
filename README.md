@@ -15,7 +15,7 @@
 1. [Google Teachable MachineでAIを体験してみよう](https://teachablemachine.withgoogle.com/)  
 2. [雑草識別モデル](https://teachablemachine.withgoogle.com/models/1u_hCfzqq/)
 3. レポート:  
-4.1. グールプごと提出  
+4.1. グールプごと提出(itc-lms)  
 5.2. [レポートテンプレート](https://drive.google.com/file/d/1I4izPmT5CRkz15JaD62JzBIjX7vSrGDD/view?usp=sharing).  
 6.3. データセット：  
 [Weeds_practice_Dataset](https://drive.google.com/drive/folders/1O5fx-mgyGC_-3Bl2Il0LnT9ouC7OCq0R?usp=sharing) ;  
