@@ -15,14 +15,15 @@
 1. [Google Teachable MachineでAIを体験してみよう](https://teachablemachine.withgoogle.com/)  
 2. [雑草識別モデル](https://teachablemachine.withgoogle.com/models/1u_hCfzqq/)
 3. レポート:  
-3.1. グールプごと提出
-3.2. [レポートテンプレート](https://drive.google.com/file/d/1I4izPmT5CRkz15JaD62JzBIjX7vSrGDD/view?usp=sharing).  
-3.3. データセット：  
+   3.1. グールプごと提出.<br>
+   3.2. [レポートテンプレート](https://drive.google.com/file/d/1I4izPmT5CRkz15JaD62JzBIjX7vSrGDD/view?usp=sharing).  
+   3.3. データセット：  
 [Weeds_practice_Dataset](https://drive.google.com/drive/folders/1O5fx-mgyGC_-3Bl2Il0LnT9ouC7OCq0R?usp=sharing) ;  
 [Rice Leaf Diseases Dataset](https://drive.google.com/drive/folders/1fVMMot1PXGeLIvw2OB6thkH3_jX9nSX3?usp=sharing), Resources from [here](https://www.kaggle.com/vbookshelf/rice-leaf-diseases) ;  
 [flowers](https://drive.google.com/drive/folders/1oukB6MPBRcEejDhf1qphxcLcP4vcVSux?usp=sharing),Resources from [here](https://www.kaggle.com/alxmamaev/flowers-recognition) ;   
 [V2 Plant Seedlings Dataset](https://drive.google.com/drive/folders/1hcN1MAa-KkLZvTUVJX-FhvXPEqRHusnK?usp=sharing),Resources from [here](https://www.kaggle.com/vbookshelf/v2-plant-seedlings-dataset) ; 
-4. レポート提出先: Email me
+5. レポート提出先: Email me
+6. 拡張：物体検出モデルの構築：roboflow
 
 ## レポート課題を更に理解するため
 1. [おすすめ深層学習入門動画](https://youtu.be/W92VcivhoBs)
